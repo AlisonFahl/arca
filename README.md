@@ -1,2 +1,2 @@
 # arca
-A Java scene-graph frameowke based on libgdx
+A Java scene-graph framework based on libgdx
