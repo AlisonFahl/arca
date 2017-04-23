@@ -13,7 +13,7 @@ import com.badlogic.gdx.math.Matrix4;
 import com.badlogic.gdx.math.Quaternion;
 import com.badlogic.gdx.math.Vector3;
 
-public class SceneNode<T extends SceneNode<T>> implements ITransformable{
+public abstract class SceneNode<T extends SceneNode<T>> implements ITransformable{
 	/*========================
 	////FIELDS & CONSTANTS////
 	========================*/
