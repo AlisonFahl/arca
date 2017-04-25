@@ -11,4 +11,9 @@
 		<gdx.version>1.9.6</gdx.version>
 		<arca.version>1.0-SNAPSHOT</arca.version>
 	</properties>
+	<modules>
+    <module>arca-core</module>
+    <module>arca-loop</module>
+    <module>arca-std</module>
+  </modules>
 </project>
