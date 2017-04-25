@@ -16,9 +16,6 @@ public class InputAction{
 	/*========================
 	///////CONSTRUCTORS///////
 	========================*/
-	/**
-	 * @param pButtonId is a constant representing the button that will trigger all actions events. This value can be any constant registered in {@link Buttons} or {@link Keys}}
-	 */
 	public InputAction(InputStateGetter pInputStateGetter){
 		mInputStateGetter = pInputStateGetter;
 	}
