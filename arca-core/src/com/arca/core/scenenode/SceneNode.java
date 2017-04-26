@@ -4,10 +4,10 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.function.Consumer;
-import java.util.function.Predicate;
 
 import com.arca.core.properties.ITransformable;
+import com.arca.core.scenenode.function.Consumer;
+import com.arca.core.scenenode.function.Predicate;
 import com.badlogic.gdx.math.Matrix3;
 import com.badlogic.gdx.math.Matrix4;
 import com.badlogic.gdx.math.Quaternion;

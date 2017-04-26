@@ -1,8 +1,6 @@
 package com.arca.loop;
 
-
-import java.util.function.Consumer;
-
+import com.arca.core.scenenode.function.Consumer;
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 

@@ -1,7 +1,6 @@
 package com.arca.std.utils.modifiers;
 
-import java.util.function.Consumer;
-
+import com.arca.core.scenenode.function.Consumer;
 import com.badlogic.gdx.math.Quaternion;
 
 public class QuaternionModifier extends Modifier<Quaternion> {

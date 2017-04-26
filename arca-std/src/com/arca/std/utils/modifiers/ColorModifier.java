@@ -1,8 +1,8 @@
 package com.arca.std.utils.modifiers;
 
-import java.util.function.Consumer;
-
+import com.arca.core.scenenode.function.Consumer;
 import com.badlogic.gdx.graphics.Color;
+
 public class ColorModifier extends Modifier<Color> {
 	/*========================
 	////FIELDS & CONSTANTS////

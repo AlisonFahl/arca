@@ -1,7 +1,6 @@
 package com.arca.std.utils.modifiers;
 
-import java.util.function.Consumer;
-
+import com.arca.core.scenenode.function.Consumer;
 import com.badlogic.gdx.math.Vector2;
 
 public class Vector2Modifier extends Modifier<Vector2> {
