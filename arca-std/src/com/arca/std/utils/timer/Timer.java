@@ -14,7 +14,7 @@ public class Timer{
 	///////CONSTRUCTORS///////
 	========================*/
 	public Timer(float pDuration){
-		if(mDuration <= 0){
+		if(pDuration <= 0){
 			throw new IllegalArgumentException("pDuration must be greater than zero.");
 		}
 		mDuration = pDuration;	
